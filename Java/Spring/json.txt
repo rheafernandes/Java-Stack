@@ -1,0 +1,12 @@
+{
+    "id": "BM1",
+    "title": "Rise of the Dark Knight",
+    "rating": 4.5,
+    "yearOfRelease": "2019"
+}
+{
+	"id":"WW1",
+	"title":"Wonder Woman",
+	"rating":"4.9",
+	"yearOfRelease":"2019"
+}
